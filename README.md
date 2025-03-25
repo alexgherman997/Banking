@@ -4,9 +4,9 @@ This framework include tests for checking UI functionality for the Banking Proje
 https://www.globalsqa.com/angularJs-protractor/BankingProject
 
 # Installation steps
-clone repository
-npm install
-npm init playwright@latest
+clone repository <br>
+npm install <br>
+npm init playwright@latest <br>
 
 # Execution
 npx playwright test
