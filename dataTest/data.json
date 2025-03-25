@@ -1,0 +1,8 @@
+{
+    "baseURL" : "https://www.globalsqa.com/angularJs-protractor/BankingProject",
+    "managerOverviwUrl":"/#/manager",
+    "addCustomerUrl": "/#/manager/addCust",
+    "customerList": "/#/manager/list",
+    "openAccountUrl" : "/#/manager/openAccount"
+
+}
